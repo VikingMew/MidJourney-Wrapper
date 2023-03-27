@@ -1,17 +1,17 @@
-#strings
+# strings
 
-DAVINCI_TOKEN = [Token of Discord bot]
+# DAVINCI_TOKEN = [Token of Discord bot]
 
-SERVER_ID = [Server id here]
+SERVER_ID = "662267976984297473"
 
-SALAI_TOKEN = [Token of the Account from which you paid MidJourney ]
+SALAI_TOKEN = "OTMxNzQ0ODI0ODY3MDQ1Mzk2.GmKSFj.DMedenyyFAetfjGTKubbIpKlRJFE_XSQVFm0JA"
 
-CHANNEL_ID = [Channel in which commands are sent]
+CHANNEL_ID = 981697501386145822
 
-#boolean
+# boolean
 USE_MESSAGED_CHANNEL = False
 
-#don't edit the following variable
-MID_JOURNEY_ID = "936929561302675456"  #midjourney bot id
-targetID       = ""
-targetHash     = ""
+# don't edit the following variable
+MID_JOURNEY_ID = "936929561302675456"  # midjourney bot id
+targetID = ""
+targetHash = ""
